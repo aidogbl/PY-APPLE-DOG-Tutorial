@@ -19,13 +19,13 @@
     
       * [1.1 软件烧录](ch0/RepTaskBasic.md)_
     
-      * [2.2 校准](ch0/RepTaskBasic.md)
+      * [1.2 校准](ch0/RepTaskBasic.md)
     
-      * [3.3 让机器狗动起来](ch0/RepTaskBasic.md)
+      * [1.3 让机器狗动起来](ch0/RepTaskBasic.md)
 
     * [第二章 开发接口介绍](ch0/RepSearchPractice.md)
     
-      * [1.1 前进/后退接口](ch0/RepTaskBasic.md)_
+      * [2.1 前进/后退接口](ch0/RepTaskBasic.md)_
     
       * [2.2 转弯接口](ch0/RepTaskBasic.md)
     
